@@ -4,7 +4,7 @@
 
 ![Home Page](screenshots/homepage.jpeg)
 
-## PDF Upload & Trust Score
+## Trust Score
 
 ![Trust Score](screenshots/upload_trustscore.jpeg)
 
